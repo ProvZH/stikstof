@@ -18,4 +18,4 @@ conda env create -f nox-env.yml -n nox-environment
 ```
 
 ## Brondata
-We maken gebruik van 500x500 emissierasters van o.a. Emissieregistratie.
+We maken gebruik van 500x500 emissierasters van o.a. Emissieregistratie (RIVM) en zelf gegenereerde sets.
